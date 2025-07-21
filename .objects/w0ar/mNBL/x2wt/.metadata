@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome UiBank-Loan Home",
+  "Type": "Screen",
+  "Id": "x2wta8WsI0aXkW7sQ7FGCw",
+  "Reference": "aqA_fO_thkK_ejElX3X-NA/x2wta8WsI0aXkW7sQ7FGCw",
+  "ParentRef": "aqA_fO_thkK_ejElX3X-NA/mNBLZOQPYEuBF5n69Whhww",
+  "Created": "2025-07-10T08:06:12.8022757Z",
+  "Updated": "2025-07-10T08:06:12.8022757Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

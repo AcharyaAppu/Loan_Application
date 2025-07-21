@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VJaoZjg45kOTqZkqMDQcBA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans/result/686fb2c54a46840aa0961bb0/9/true" CVScreenId="1fd6d473-3a93-4200-b8e2-49b2c8c45bec" CvElementArea="458, 458, 240, 54" CvTextArea="480, 476, 193, 19" CvTextArgument="Apply For Another Loan" CvType="Button" DesignTimeRectangle="459, 460, 237, 50" ElementType="Button" FullSelectorArgument="&lt;webctrl id='applyForNewLoanButton' tag='BUTTON' /&gt;" Guid="1bb3ce0b-6b7f-426c-862b-668e9f28da92" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Loan result' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="83e3ea5572fbd83a11ac610a1aef672b.png" xmlns="">00e4kcdWu40uU4jlfZLhFlA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

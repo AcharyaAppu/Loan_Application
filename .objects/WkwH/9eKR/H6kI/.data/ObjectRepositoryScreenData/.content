@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="LkRm-bbkwE2Gh_XUimz9Kg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1382, 736" FilePath="C:\Program Files\Microsoft Office\Office16\excel.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJuSURBVFhHY2CgEpDLcZJAF6MJUChw4ZQvcDGTz3dOk89zniyf53RAPtfplVyO0390tRQDxRI3XYUStyiFYrcWhSLXjQqFLrcVClz+y4NwvvN/+TwQdvovn+v0nyIHKFV4yilVeHgrlnuUKpZ5LFIscz+vWOr+X7HE7b8CCBe7/Vcocv2vUOjyn1YO+K9U4fFfsdzjv2IZCLv/J8cBYDXE4Q8KRa7tVHcAseDT9y9gRwyYA0AAZB7VHYAczDBL0PHwdgApAK8DSlb2/F92Yuv/mftXoThg77UT4AS0/uwerA5A9ym674kOgdjZlXCFQZPzwQ5ImVsH5v/5+/e/XUscbR0AioILj26AFa46vRPsgBN3LoL5K05so30UgByQOr8erPD7r5//Y2ZWgNm//vz+b1EfgdMB6D5F9z1JIQBKhDee3wcrfvD6KZiee3At3kSIbhG65SQ7IGthM1zD1x/f/pvWheF1ACmAKAfkL22HawAFv21zDF4HoPsU3fckhYBahff/B28gQX/31WMwvfbMLvo5oH79VLBCkCMip5eB2aAs6NqejNMBpAC8DtCuCfj/6tM7sMK6dVPA2fDq0ztg/vZLh3E6AN2n6L4nOgR6dswHK3r75cN/jUofsAMKl3bANfv1ZdPWAS2bZ4KLYlAihBXFqqWe4MLo+68f/4/cOo/VAaQAvA4gtzJC9ym674kOgSHrAFLAgDoAVKoqFLl+proD0IMbD/6sUOTaRXUHwA0kFSB1TCoGpGOCCyiWuBlAu2btCkWuWxQKXe7R1QHYgEKBCw9S53SafJ7TYflcp7d0cwAuIJfjJI0uRgwAACR1HmJG3CLQAAAAAElFTkSuQmCC" Selector="&lt;wnd app='excel.exe' cls='XLMAIN' title='LoanData  [Read-Only] - Excel (Product Activation Failed)' /&gt;" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="9956795bcad23ad0e95b4ed5920ac738.png" xmlns="">0iBzrsOD2LkaIy7qppjtUNg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
